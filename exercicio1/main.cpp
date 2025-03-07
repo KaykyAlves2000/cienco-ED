@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-    float altura, peso,  imc;
+    float altura, peso, imc;
 
     cout << "Informe seu peso: ";
     cin >> peso;
